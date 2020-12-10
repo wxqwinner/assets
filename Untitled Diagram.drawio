@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:45:13.296Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pjK0L7MzZDzyCF_U_Ep1" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T05:33:38.138Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HLplwYXHz05Zxl7QuLHJ" version="13.10.1" type="github">
   <diagram id="PqCvcaHbQUNJ0y0y_sjk" name="Page-1">
-    <mxGraphModel dx="1038" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-1" value="获得特定人的耳廓图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="110" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4y6m8ZNibAs1Q4yDd4b-4" target="A4y6m8ZNibAs1Q4yDd4b-1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,35 +19,35 @@
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4y6m8ZNibAs1Q4yDd4b-5" target="A4y6m8ZNibAs1Q4yDd4b-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-5" value="&lt;span&gt;S5：根据耳廓编号进行数据库索引；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="160" height="40" as="geometry" />
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-5" value="&lt;span&gt;根据耳廓编号进行数据库索引&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="386" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4y6m8ZNibAs1Q4yDd4b-6" target="A4y6m8ZNibAs1Q4yDd4b-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-6" value="&lt;span&gt;S6：根据索引到的数据进行3d音频回放&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="460" width="160" height="40" as="geometry" />
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-6" value="&lt;span&gt;根据索引到的数据进行3d音频回放&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="446" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4y6m8ZNibAs1Q4yDd4b-8" target="A4y6m8ZNibAs1Q4yDd4b-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-8" value="&lt;span&gt;S4：识别耳廓编号；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="330" width="160" height="40" as="geometry" />
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-8" value="&lt;span&gt;识别耳廓编号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="319" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4y6m8ZNibAs1Q4yDd4b-9" target="A4y6m8ZNibAs1Q4yDd4b-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-9" value="&lt;span&gt;S3：对耳廓区域特征编码；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="160" height="40" as="geometry" />
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-9" value="&lt;span&gt;对耳廓区域特征编码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="251" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4y6m8ZNibAs1Q4yDd4b-10" target="A4y6m8ZNibAs1Q4yDd4b-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-10" value="&lt;span&gt;：对特定人的耳廓图片进行耳廓区域检测；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="160" height="40" as="geometry" />
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-10" value="&lt;span&gt;对特定人的耳廓图片进行耳廓区域检测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="516" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-20" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,29 +64,68 @@
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-23" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="211" as="sourcePoint" />
-            <mxPoint x="260" y="211" as="targetPoint" />
+            <mxPoint x="180" y="201" as="sourcePoint" />
+            <mxPoint x="260" y="201" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="221" />
-              <mxPoint x="230" y="201" />
+              <mxPoint x="210" y="211" />
+              <mxPoint x="230" y="191" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;S2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="158" y="196" width="40" height="30" as="geometry" />
+          <mxGeometry x="158" y="186" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A4y6m8ZNibAs1Q4yDd4b-25" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="181" y="282" as="sourcePoint" />
-            <mxPoint x="261" y="282" as="targetPoint" />
+            <mxPoint x="181" y="273" as="sourcePoint" />
+            <mxPoint x="261" y="273" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="211" y="292" />
-              <mxPoint x="231" y="272" />
+              <mxPoint x="211" y="283" />
+              <mxPoint x="231" y="263" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-26" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;S1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="267" width="40" height="30" as="geometry" />
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-26" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;S3&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="258" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-27" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="340" as="sourcePoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="350" />
+              <mxPoint x="230" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-28" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;S4&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="325" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-29" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179" y="408" as="sourcePoint" />
+            <mxPoint x="259" y="408" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="209" y="418" />
+              <mxPoint x="229" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-30" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;S5&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="393" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-31" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="465" as="sourcePoint" />
+            <mxPoint x="260" y="465" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="475" />
+              <mxPoint x="230" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4y6m8ZNibAs1Q4yDd4b-32" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;S6&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="450" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
